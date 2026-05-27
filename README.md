@@ -57,9 +57,8 @@ The dashboard displays:
 - Active lighting mode display  
 
 # Videos
-https://github.com/user-attachments/assets/video-demo-1
+https://github.com/Jaga512/MYOSA/raw/main/assets/Demo_video_1.mp4
 
-https://github.com/user-attachments/assets/video-demo-2
 - Energy optimization demonstration  
 - Mobile dashboard monitoring  
 - Comparison between conventional lighting and CIRCADIA-SENSE adaptive lighting  
