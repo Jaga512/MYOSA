@@ -206,3 +206,24 @@ Power on the system and observe adaptive lighting behavior based on user activit
 
 ```bash
 pip install flask numpy pandas opencv-python
+```
+
+---
+
+# License
+
+This project is developed for educational, research, and innovation purposes under the IEEE MYOSA platform. CIRCADIA-SENSE encourages open-source learning, research collaboration, and academic usage.
+
+---
+
+# Contribution Notes
+
+Contributors can improve CIRCADIA-SENSE by:
+- Enhancing activity recognition algorithms  
+- Improving machine learning models  
+- Adding advanced health analytics  
+- Optimizing energy management  
+- Developing mobile applications  
+- Integrating additional IoT devices  
+
+Contributions, issue reports, and feature suggestions are welcome.
