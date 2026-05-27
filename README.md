@@ -27,34 +27,10 @@ The project combines IoT, embedded systems, AI-based activity recognition, and e
 # Demo / Examples
 
 ## Images
+<img width="576" height="315" alt="Image _1" src="https://github.com/user-attachments/assets/43121214-0888-41fb-952d-6d692caa8ae5" />
+<img width="720" height="419" alt="Image_2" src="https://github.com/user-attachments/assets/4ede1707-ccfe-40d1-a509-45caec49a812" />
 
-### System Architecture Diagram
-- Complete workflow of sensors, MYOSA board, cloud communication, and adaptive lighting control system.
-
-### Smart Room Prototype
-The prototype includes multiple intelligent lighting zones:
-- Workspace Area  
-- Reading Corner  
-- Relaxation Zone  
-- Transition Space  
-
-### Dashboard Interface
-The dashboard displays:
-- Ambient light data  
-- Occupancy detection  
-- Energy consumption  
-- Current lighting mode  
-- Color temperature visualization  
-
-### Mobile Application
-- Remote monitoring and lighting control  
-- Manual brightness adjustment  
-- Mode selection and scheduling  
-
-### OLED Monitoring Display
-- Real-time sensor readings  
-- System status updates  
-- Active lighting mode display  
+---
 
 # Videos
 
