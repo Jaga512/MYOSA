@@ -57,8 +57,143 @@ The dashboard displays:
 - Active lighting mode display  
 
 # Videos
-https://github.com/Jaga512/MYOSA/raw/main/assets/Demo_video_1.mp4
 
+https://github.com/user-attachments/assets/0b22f1b0-9e0b-4e76-b8da-f13e3017a899
+
+
+https://github.com/user-attachments/assets/c1df97db-31fe-4a79-8810-1b82975b1a10
+
+
+
+https://github.com/user-attachments/assets/de0d2bd2-e9d6-4870-a21b-eecabc2bfe61
+
+
+The demonstration videos include:
+
+- Complete hardware setup explanation  
+- Real-time adaptive lighting demonstration  
+- Gesture-based controls  
+- Occupancy detection demo  
 - Energy optimization demonstration  
 - Mobile dashboard monitoring  
 - Comparison between conventional lighting and CIRCADIA-SENSE adaptive lighting  
+- Multi-zone smart lighting behavior  
+- Real-time sensor monitoring and OLED display visualization
+
+# Features (Detailed)
+
+## 1. Circadian Rhythm Optimization
+
+The system automatically adjusts lighting according to natural human biological cycles. During morning and work hours, the system produces cool white light with higher brightness levels to improve focus and productivity. During evening and night hours, the system gradually shifts toward warmer light tones that reduce blue light exposure and support healthy sleep patterns.
+
+The lighting engine dynamically adjusts color temperatures between **2000K and 6500K** according to time, environmental conditions, and user activity.
+
+---
+
+## 2. Multi-Sensor Context Awareness
+
+CIRCADIA-SENSE uses multiple sensors integrated with the MYOSA board to understand the surrounding environment in real time.
+
+### APDS9960 Sensor
+- Ambient light sensing  
+- Gesture recognition  
+- Natural light intensity analysis  
+
+### MPU6050 Sensor
+- Motion detection  
+- Occupancy analysis  
+- Activity pattern recognition  
+
+### BMP180 Sensor
+- Temperature monitoring  
+- Atmospheric condition monitoring  
+- Environment-aware lighting adjustment  
+
+### OLED Display
+- Displays real-time system data  
+- Shows active lighting mode  
+- Displays energy-saving statistics  
+
+### Buzzer
+- Provides system notifications  
+- Indicates lighting mode transitions  
+
+---
+
+## 3. Adaptive Activity Recognition
+
+The system intelligently identifies different user activities and changes the lighting accordingly.
+
+### Reading Mode
+Provides balanced white lighting optimized for reading comfort and reduced eye strain.
+
+### Work Mode
+Uses bright cool lighting to improve concentration and productivity.
+
+### Relaxation Mode
+Applies warm ambient lighting to create a calm and stress-free environment.
+
+### Sleep Preparation Mode
+Gradually reduces brightness and transitions to warmer colors to support melatonin production.
+
+---
+
+## 4. Intelligent Energy Optimization
+
+The project follows a **“Just Enough Light”** strategy where the system continuously adjusts brightness according to occupancy and daylight availability.
+
+### Energy Optimization Features
+- Automatic dimming during daytime  
+- Occupancy-based lighting activation  
+- Smart brightness adjustment  
+- Zone-specific lighting control  
+- Predictive energy optimization using AI  
+
+The system can reduce electricity consumption by approximately **30–40%** compared to traditional lighting systems.
+
+---
+
+## 5. Wireless Smart Connectivity
+
+The ESP32 capabilities of the MYOSA board enable advanced wireless communication features.
+
+### Features
+- Wi-Fi-based remote monitoring  
+- Bluetooth mobile connectivity  
+- Cloud synchronization  
+- Smart home integration  
+- Over-the-air firmware updates  
+
+Users can monitor and control the system remotely through a mobile application or dashboard.
+
+---
+
+## 6. Machine Learning-Based Pattern Analysis
+
+The system stores environmental and occupancy data to learn user behavior patterns over time. AI algorithms analyze lighting preferences, occupancy schedules, and activity patterns to provide intelligent predictive automation.
+
+### Benefits
+- Personalized lighting experience  
+- Improved automation accuracy  
+- Reduced energy wastage  
+- Better user comfort  
+
+---
+
+## 7. Multi-Zone Adaptive Lighting
+
+The demonstration prototype includes four independent lighting zones.
+
+### Workspace Area
+Productivity-oriented lighting for office or study work.
+
+### Reading Corner
+Focused illumination for reading activities.
+
+### Relaxation Zone
+Warm ambient lighting for comfort and mood enhancement.
+
+### Transition Space
+Motion-sensitive lighting for movement detection and navigation.
+
+Each zone independently adjusts brightness, color temperature, and activation timing.
